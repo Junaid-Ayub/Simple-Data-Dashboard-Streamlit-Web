@@ -22,21 +22,21 @@ To install the required libraries, run the following command:
 ```bash
 pip install streamlit pandas matplotlib numpy
 ```
-## How to Use
+## How to Use 🛠️
 
-1. Upload a CSV File: 📤 Click on the "Choose a CSV File" button to upload a CSV file.
-2. Data Preview: 👀 After uploading the file, the app will display a preview of the first few rows of your dataset.
+1. **Upload a CSV File**: 📤 Click on the "Choose a CSV File" button to upload a CSV file.
+2. **Data Preview**: 👀 After uploading the file, the app will display a preview of the first few rows of your dataset.
 
-3. Data Summary: 📊 The app will automatically show summary statistics for the dataset (e.g., mean, standard deviation).
+3. **Data Summary**: 📊 The app will automatically show summary statistics for the dataset (e.g., mean, standard deviation).
 
-4. Filtering Data:
+4. **Filtering Data**:
 
 - Select a column from the dropdown menu to filter the data. 🎯
 
 - Choose a specific value from that column to filter the rows. 🔢
 
 - Click the "Display Filtered Data" button to show the filtered dataset. 🔽
-5. Plotting Data:
+5. **Plotting Data**:
 
 - Select columns for the x and y axes from the dropdown menus. 📈
 
