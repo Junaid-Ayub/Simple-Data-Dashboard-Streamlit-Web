@@ -41,3 +41,15 @@ pip install streamlit pandas matplotlib numpy
 - Select columns for the x and y axes from the dropdown menus. 📈
 
 - Click the "Plot the Data" button to visualize the relationship between the selected columns using a line chart. 📊
+
+## Snapshots 🎆
+
+- Here are some Snaps from the WEB
+
+![File to be Uploaded](Visuals/1.png)
+![Data Preview](Visuals/2.png)
+![Data Summary](Visuals/3.png)
+![Filter Data](Visuals/4.png)
+![Filtered Data Table](Visuals/5.png)
+![Plot Data](Visuals/6.png)
+
